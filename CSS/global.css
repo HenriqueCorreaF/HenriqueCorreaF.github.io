@@ -48,4 +48,9 @@ img {
     text-transform: capitalize;
     max-width: initial;
   }
+
+  a {
+    text-decoration: none;
+    color: inherit;
+  }
 }
