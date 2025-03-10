@@ -42,9 +42,24 @@
   .footer-container {
     grid-template-columns: 1fr;
     gap: 40px;
+    padding: 80px 20px;
   }
 
   .footer-contact li {
     font-size: 1.5rem;
+  }
+
+  .footer-text {
+    font-size: 1rem;
+    line-height: 1.33;
+    color: #ffffff;
+  }
+
+  .footer-contact li {
+    color: #ffffff;
+    font-weight: bold;
+    font-size: 1rem;
+    line-height: 1.1;
+    margin-bottom: 30px;
   }
 }
