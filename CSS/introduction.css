@@ -106,7 +106,8 @@ z-index: -1;
     display: flex;
    justify-content: center;
    padding-top: 5px;
-   unicode-bidi: plaintext;
+   direction: rtl;
+   unicode-bidi: bidi-override;
   }  
  
   .subtittle {
